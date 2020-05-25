@@ -1,0 +1,16 @@
+{
+    "Species": {
+            "Human": false,
+            "Mythlog": false,
+            "Other": false
+    },
+    "Gender": {
+        "Male": false,
+        "Female": false
+    },
+    "Origin": {
+        "Unknown": false,
+        "Post-Apoclyptic Earth": false,
+        "Nuptia 4": false
+    }
+}
